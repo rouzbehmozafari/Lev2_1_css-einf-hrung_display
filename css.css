@@ -1,0 +1,14 @@
+article {
+    border: black solid;
+    display: inline-block;
+    width: 300px;
+    margin: 10px;
+    padding: 10px;
+}
+
+
+
+
+/* Wir werden ein ansprechendes Kartenlayout für unsere Kontakte erstellen.
+Dafür werden wir “display: inline-block” verwenden.
+Benutze das HTML im Kommentarbereich. */
